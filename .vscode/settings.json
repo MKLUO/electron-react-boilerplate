@@ -31,5 +31,7 @@
     "npm-debug.log.*": true,
     "test/**/__snapshots__": true,
     "yarn.lock": true
-  }
+  },
+  "sync.gist": "f485b6ab2ce9db4b395c865a1bfd871d",
+  "sync.removeExtensions": false
 }
